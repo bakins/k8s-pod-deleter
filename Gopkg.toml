@@ -1,0 +1,15 @@
+[[override]]
+name = "k8s.io/client-go"
+version = "v6.0.0"
+
+[[override]]
+name = "go.uber.org/zap"
+version = "v1.7.1"
+
+#[[override]]
+#name = "k8s.io/api"
+#revision = "11147472b7c934c474a2c484af3c0c5210b7a3af"
+
+#[[override]]
+#name = "k8s.io/apimachinery"
+#revision = "180eddb345a5be3a157cea1c624700ad5bd27b8f"
